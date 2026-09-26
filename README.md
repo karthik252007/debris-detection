@@ -2,7 +2,7 @@
 
 SONARX is a Streamlit prototype for detecting objects in sonar imagery using a YOLO object-detection model.
 
-## Current prototype
+🚀 *Live Demo:* https://debris-detection-bjedvbtunexhmgji2udfrp.streamlit.app/
 
 - **Application:** Streamlit
 - **Computer vision:** Ultralytics YOLO
